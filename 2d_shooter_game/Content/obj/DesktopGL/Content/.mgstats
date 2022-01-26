@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jalex/source/repos/game/2d_shooter_game/Content/crosshair_blue_small.png","C:/Users/jalex/source/repos/game/2d_shooter_game/Content/bin/DesktopGL/Content/crosshair_blue_small.xnb","TextureProcessor","Texture2DContent",589,7141,0.1144026
+"C:/Users/jalex/source/repos/game/2d_shooter_game/Content/duck_target_white.png","C:/Users/jalex/source/repos/game/2d_shooter_game/Content/bin/DesktopGL/Content/duck_target_white.xnb","TextureProcessor","Texture2DContent",2612,37705,0.0021145
+"C:/Users/jalex/source/repos/game/2d_shooter_game/Content/forest.png","C:/Users/jalex/source/repos/game/2d_shooter_game/Content/bin/DesktopGL/Content/forest.xnb","TextureProcessor","Texture2DContent",1472380,5716085,0.1736709
+"C:/Users/jalex/source/repos/game/2d_shooter_game/Content/galleryFont.spritefont","C:/Users/jalex/source/repos/game/2d_shooter_game/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.0810046
+"C:/Users/jalex/source/repos/game/2d_shooter_game/Content/start_button.png","C:/Users/jalex/source/repos/game/2d_shooter_game/Content/bin/DesktopGL/Content/start_button.xnb","TextureProcessor","Texture2DContent",1304,315985,0.1470452
